@@ -186,62 +186,82 @@ All showcase screenshots should be placed in the root `/images/` directory. To d
 
 ### Visual Previews
 
-### 1. RouteReserve Landing Homepage & Booking Flow
+### 1. Landing Page Search Dashboard
 ![01 Landing Page](./images/Screenshot%202026-07-13%20031321.png)
+
+### 2. Flight Search Results (INR + USD)
 ![02 Flights Search](./images/Screenshot%202026-07-13%20121236.png)
+
+### 3. Flight Booking Passenger Details Form
 ![03 Booking Modal](./images/Screenshot%202026-07-13%20121245.png)
+
+### 4. Flight Confirmed Invoice Receipt
 ![04 Invoice Receipt](./images/Screenshot%202026-07-13%20121253.png)
+
+### 5. Unified Booking History Dashboard
 ![05 Booking History](./images/Screenshot%202026-07-13%20121301.png)
 
-### 2. User Authentication & Analytics Dashboard (Login, Registration, & Admin Charts)
+### 6. User Portal Login Page
 ![06 User Login](./images/Screenshot%202026-07-13%20033440.png)
+
+### 7. User Portal Registration Page
 ![07 User Registration](./images/Screenshot%202026-07-13%20033511.png)
+
+### 8. Agency Analytics & Charts Dashboard
 ![08 Analytics Dashboard](./images/Screenshot%202026-07-13%20033521.png)
 
-### 3. NestJS Swagger Developer Documentation Header
+### 9. NestJS Swagger Developer Documentation Header
 ![09 Swagger API Header](./images/Screenshot%202026-07-13%20002654.png)
 
-### 4. Swagger Authentication & Service Endpoints (Endpoints, POST Executions, & Schemas)
+### 10. Swagger Authentication & Service Endpoints
 ![10 Swagger Endpoints](./images/Screenshot%202026-07-13%20002735.png)
+
+### 11. Swagger API POST Login Request Input
 ![11 Swagger POST User Input](./images/Screenshot%202026-07-13%20223949.png)
+
+### 12. Swagger API POST Login Response Success
 ![12 Swagger POST User Success](./images/Screenshot%202026-07-13%20224000.png)
+
+### 13. Swagger API POST Booking Success Response
 ![13 Swagger POST Booking Success](./images/Screenshot%202026-07-13%20223641.png)
+
+### 14. Swagger Database Schema Definition - User & Auth Models
 ![14 Swagger Schema User](./images/Screenshot%202026-07-13%20223653.png)
 
-### 5. Empty Train Search State
+### 15. Empty Train Search State
 ![15 Trains Empty](./images/Screenshot%202026-07-13%20033252.png)
 
-### 6. Indian Railway Connections Search
+### 16. Indian Railway Connections Search
 ![16 Trains Search](./images/Screenshot%202026-07-13%20033325.png)
 
-### 7. Train Passenger Registration Form
+### 17. Train Passenger Registration Form
 ![17 Train Booking Modal](./images/Screenshot%202026-07-13%20033354.png)
 
-### 8. Train Invoice Receipt Confirmation
+### 18. Train Invoice Receipt Confirmation
 ![18 Train Receipt](./images/Screenshot%202026-07-13%20033412.png)
 
-### 9. Empty Bus Search State
+### 19. Empty Bus Search State
 ![19 Buses Empty](./images/Screenshot%202026-07-13%20031532.png)
 
-### 10. Indian Bus Operators Search
+### 20. Indian Bus Operators Search
 ![20 Buses Search](./images/Screenshot%202026-07-13%20031639.png)
 
-### 11. Bus Passenger Registration Form
+### 21. Bus Passenger Registration Form
 ![21 Bus Booking Modal](./images/Screenshot%202026-07-13%20031759.png)
 
-### 12. Bus Invoice Receipt Confirmation
+### 22. Bus Invoice Receipt Confirmation
 ![22 Bus Receipt](./images/Screenshot%202026-07-13%20031907.png)
 
-### 13. Car Rental Vehicle Catalog
+### 23. Car Rental Vehicle Catalog
 ![23 Car List](./images/Screenshot%202026-07-13%20032008.png)
 
-### 14. Car Rental Checkout Form
+### 24. Car Rental Checkout Form
 ![24 Car Booking Modal](./images/Screenshot%202026-07-13%20032029.png)
 
-### 15. Car Rental Invoice Receipt Confirmation
+### 25. Car Rental Invoice Receipt Confirmation
 ![25 Car Receipt](./images/Screenshot%202026-07-13%20032252.png)
 
-### 16. Terminal PostgreSQL Seeding Output
+### 26. Terminal PostgreSQL Seeding Output
 ![26 DB Seeding](./images/Screenshot%202026-07-12%20224026.png)
 
 *To update these previews on your fork, simply replace the files inside the `/images/` root directory.*

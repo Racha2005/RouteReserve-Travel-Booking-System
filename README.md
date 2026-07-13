@@ -153,7 +153,7 @@ NestJS automatically hosts interactive OpenAPI documentation.
 All screenshots are stored in the root `/images/` directory using their original capture names. They are mapped and displayed below:
 
 ### 1. RouteReserve Landing Homepage
-![01 Landing Page](./images/Screenshot%202026-07-13%20121227.png)
+![01 Landing Page](./images/Screenshot%202026-07-13%20031321.png)
 
 ### 2. Dynamically Scanned Flight Options (Surged pricing in INR/USD)
 ![02 Flights Search](./images/Screenshot%202026-07-13%20121236.png)

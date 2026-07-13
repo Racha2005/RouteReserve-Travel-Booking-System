@@ -230,9 +230,9 @@ All showcase screenshots should be placed in the root `/images/` directory. To d
 ![26 Bus Receipt](./images/Screenshot%202026-07-13%20033242.png)
 
 ### 8. Car Rentals Module (Catalog, Booking, & Confirmation)
-![27 Car List](./images/Screenshot%202026-07-13%20032008.png)
-![28 Car Booking Modal](./images/Screenshot%202026-07-13%20032029.png)
-![29 Car Receipt](./images/Screenshot%202026-07-13%20032252.png)
+![27 Car List](./images/Screenshot%202026-07-13%20033325.png)
+![28 Car Booking Modal](./images/Screenshot%202026-07-13%20033412.png)
+![29 Car Receipt](./images/Screenshot%202026-07-13%20033440.png)
 
 ### 9. Database Seeding & Development Servers Start Logs
 ![30 Database Seeding Log](./images/Screenshot%202026-07-12%20224026.png)

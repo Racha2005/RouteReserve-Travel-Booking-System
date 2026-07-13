@@ -174,7 +174,6 @@ All showcase screenshots should be placed in the root `/images/` directory. To d
 | **Original Capture** | Empty train search status panel | `![Trains Empty](./images/Screenshot%202026-07-13%20033252.png)` |
 | **Original Capture** | Train search results (Vande Bharat Express, Shatabdi) | `![Trains Search](./images/Screenshot%202026-07-13%20033325.png)` |
 | **Original Capture** | Train booking passenger details input forms | `![Train Booking Modal](./images/Screenshot%202026-07-13%20033354.png)` |
-| **Original Capture** | Confirmed train ticket invoice receipt page | `![Train Receipt](./images/Screenshot%202026-07-13%20033412.png)` |
 | **Original Capture** | Empty bus search status panel | `![Buses Empty](./images/Screenshot%202026-07-13%20031532.png)` |
 | **Original Capture** | Bus search results (Suguma Tourist, Zingbus Premium, Bharati) | `![Buses Search](./images/Screenshot%202026-07-13%20031639.png)` |
 | **Original Capture** | Bus booking passenger configuration forms | `![Bus Booking Modal](./images/Screenshot%202026-07-13%20031759.png)` |
@@ -211,32 +210,38 @@ All showcase screenshots should be placed in the root `/images/` directory. To d
 ![14 Swagger Schema Booking](./images/Screenshot%202026-07-13%20223641.png)
 
 ### 5. Flights Search Module (Empty State & Active Flights Scan)
-![15 Flights Empty State](./images/Screenshot%202026-07-13%20033031.png)
+![15 Flights Empty State](./images/Screenshot%202026-07-13%20031532.png)
+![16 Flights Search Results](./images/Screenshot%202026-07-13%20032923.png)
 ![16 Flights Search Results](./images/Screenshot%202026-07-13%20121236.png)
-![17 Flights Booking Form Empty UI](./images/Screenshot%202026-07-13%20033049.png)
-![18 Client Invoice & PDF Download Ticket](./images/Screenshot%202026-07-13%20031253.png)
+![17 Flights Booking Form Empty UI](./images/Screenshot%202026-07-13%20031759.png)
+![18 Flights Booking Form UI](./images/Screenshot%202026-07-13%20031907.png)
+![19 Client Confirmation Invoice](./images/Screenshot%202026-07-13%20032008.png)
+![20 Client PDF Download Ticket](./images/Screenshot%202026-07-13%20032029.png)
 
 ### 6. Trains Reservation Module (Empty State, Results, Booking, & Ticket)
-![19 Trains Empty](./images/Screenshot%202026-07-13%20033252.png)
-![20 Trains Search](./images/Screenshot%202026-07-13%20033325.png)
-![21 Train Booking Modal](./images/Screenshot%202026-07-13%20033354.png)
-![22 Train Receipt](./images/Screenshot%202026-07-13%20033412.png)
+![21 Trains Empty](./images/Screenshot%202026-07-13%20032232.png)
+![22 Trains Search](./images/Screenshot%202026-07-13%20032252.png)
+![23 Train Booking Modal](./images/Screenshot%202026-07-13%20032423.png)
 
 ### 7. Buses Reservation Module (Empty State, Results, Booking, & Ticket)
-![23 Buses Empty](./images/Screenshot%202026-07-13%20031532.png)
-![24 Buses Search](./images/Screenshot%202026-07-13%20031639.png)
-![25 Bus Booking Modal](./images/Screenshot%202026-07-13%20031759.png)
-![26 Bus Receipt](./images/Screenshot%202026-07-13%20031907.png)
+![24 Buses Empty](./images/Screenshot%202026-07-13%20032541.png)
+![24 Buses Search](./images/Screenshot%202026-07-13%20033130.png)
+![25 Bus Booking Modal](./images/Screenshot%202026-07-13%20033225.png)
+![26 Bus Receipt](./images/Screenshot%202026-07-13%20033242.png)
 
 ### 8. Car Rentals Module (Catalog, Booking, & Confirmation)
 ![27 Car List](./images/Screenshot%202026-07-13%20032008.png)
 ![28 Car Booking Modal](./images/Screenshot%202026-07-13%20032029.png)
 ![29 Car Receipt](./images/Screenshot%202026-07-13%20032252.png)
 
-### 9. Database Seeding & Setup Logs
-![30 DB Seeding](./images/Screenshot%202026-07-12%20224026.png)
+### 9. Database Seeding & Development Servers Start Logs
+![30 Database Seeding Log](./images/Screenshot%202026-07-12%20224026.png)
+![31 Backend API Server Run Log](./images/Screenshot%202026-07-12%20224224.png)
+![32 Localhost Running Successfully](./images/Screenshot%202026-07-12%20224300.png)
+![33 Frontend Next.js Server Run Log](./images/Screenshot%202026-07-13%20034355.png)
 
-*To update these previews on your fork, simply replace the files inside the `/images/` root directory.*
+### 10. Unified Booking History Dashboard
+![Booking History Dashboard](./images/Screenshot%202026-07-13%20033252.png)
 
 ---
 

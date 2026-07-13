@@ -150,31 +150,50 @@ NestJS automatically hosts interactive OpenAPI documentation.
 
 ## 📸 Screenshots Showcase
 
-All showcase screenshots are stored in the root `/images/` directory.
+All showcase screenshots should be placed in the root `/images/` directory. To display your screenshots correctly on GitHub, select your best captures from your screenshots collection and rename them to match the filenames in the table below:
 
-### 1. Unified Itinerary Confirmation (Round-Trip)
-![Showcase - Confirmed Itinerary](./images/01_landing_page.png)
+| Target Filename | What Image to Use | Markdown Link |
+|---|---|---|
+| **`01_landing_page.png`** | The landing page search dashboard | `![Landing](./images/01_landing_page.png)` |
+| **`02_flight_search.png`** | Flight search results (INR + USD brackets) | `![Flights](./images/02_flight_search.png)` |
+| **`03_booking_modal.png`** | Multiple passenger forms with name/age inputs | `![Booking Forms](./images/03_booking_modal.png)` |
+| **`04_receipt_confirmation.png`** | Booking Confirmed invoice receipt page | `![Receipt](./images/04_receipt_confirmation.png)` |
+| **`05_booking_history.png`** | Clear slate bookings history panel | `![History](./images/05_booking_history.png)` |
+| **`06_train_search.png`** | Train search results (Vande Bharat, Rajdhani) | `![Trains](./images/06_train_search.png)` |
+| **`07_bus_search.png`** | Bus search results (Suguma, Durgamba, Zingbus) | `![Buses](./images/07_bus_search.png)` |
+| **`08_swagger_docs.png`** | NestJS Swagger API interactive developer docs | `![Swagger API](./images/08_swagger_docs.png)` |
+| **`09_db_seeding.png`** | Terminal log of running `npx prisma db seed` | `![DB Seeding](./images/09_db_seeding.png)` |
 
-### 2. Dynamically Scanned Flight Options (surged pricing)
-![Showcase - Flights Search](./images/02_flight_search.png)
+---
+
+### Visual Previews
+
+### 1. RouteReserve Landing Search Screen
+![Landing Page](./images/01_landing_page.png)
+
+### 2. Dynamically Scanned Flight Options (Surged Pricing)
+![Flights Search](./images/02_flight_search.png)
 
 ### 3. Multiple Passenger Input Forms
-![Showcase - Booking Modal](./images/03_booking_modal.png)
+![Booking Modal](./images/03_booking_modal.png)
 
-### 4. Interactive Transaction Analytics
-![Showcase - Analytics Panel](./images/04_receipt_confirmation.png)
+### 4. Confirmed Invoice Receipt Voucher
+![Invoice Receipt](./images/04_receipt_confirmation.png)
 
 ### 5. Clear Slate Booking History
-![Showcase - Fresh History](./images/05_booking_history.png)
+![Booking History](./images/05_booking_history.png)
 
-### 6. Interactive Swagger API Documentation Header
-![Swagger Header](./images/06_swagger_docs.png)
+### 6. Train Reservations (Vande Bharat & Expresses)
+![Train Search](./images/06_train_search.png)
 
-### 7. Swagger Authentication & Service Endpoints
-![Swagger Endpoints](./images/07_swagger_endpoints.png)
+### 7. Bus Reservations (Suguma, Durgamba, Zingbus)
+![Bus Search](./images/07_bus_search.png)
 
-### 8. Prisma Database Schemas Definition
-![Swagger Schemas](./images/08_swagger_schemas.png)
+### 8. Swagger API Interactive Documentation
+![Swagger Documentation](./images/08_swagger_docs.png)
+
+### 9. Database Seeding Output (Terminal)
+![Database Seeding Log](./images/09_db_seeding.png)
 
 *To update these previews on your fork, simply replace the files inside the `/images/` root directory.*
 

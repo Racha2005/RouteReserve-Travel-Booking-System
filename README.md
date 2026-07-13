@@ -13,12 +13,11 @@
   <p align="center">
     A premium, unified travel reservation agency portal supporting flights, trains, buses, and car rentals with dynamic pricing calculations, multi-passenger ticket booking, and real-time history tracking.
   </p>
-</div>
 
-> [!IMPORTANT]
-> **🚀 Deployed Live Website:** You can access the fully functional online application directly at **[https://routereserve-travel-booking.vercel.app](https://routereserve-travel-booking.vercel.app)**.
-> 
-> *Experience instant, production-optimized page transitions and real-time transits booking flows!*
+  <h4>
+    🌎 Live Website: <a href="https://routereserve-travel-booking.vercel.app">https://routereserve-travel-booking.vercel.app</a>
+  </h4>
+</div>
 
 ---
 
@@ -156,6 +155,10 @@ All showcase screenshots should be placed in the root `/images/` directory. To d
 | Target Filename | What Image to Use | Markdown Link |
 |---|---|---|
 | **Original Capture** | Homepage search dashboard (glassmorphism tabs selector) | `![Landing](./images/Screenshot%202026-07-13%20031321.png)` |
+| **Original Capture** | Flight search results (INR + USD brackets) | `![Flights](./images/Screenshot%202026-07-13%20121236.png)` |
+| **Original Capture** | Multiple passenger forms with name/age inputs | `![Booking Forms](./images/Screenshot%202026-07-13%20121245.png)` |
+| **Original Capture** | Booking Confirmed invoice receipt page | `![Receipt](./images/Screenshot%202026-07-13%20121253.png)` |
+| **Original Capture** | Clear slate bookings history panel | `![History](./images/Screenshot%202026-07-13%20121301.png)` |
 | **Original Capture** | User Auth - Login Screen | `![Login](./images/Screenshot%202026-07-13%20033440.png)` |
 | **Original Capture** | User Auth - Registration Screen | `![Register](./images/Screenshot%202026-07-13%20033511.png)` |
 | **Original Capture** | Agency Analytics & Charts Dashboard | `![Analytics](./images/Screenshot%202026-07-13%20033521.png)` |
@@ -166,12 +169,8 @@ All showcase screenshots should be placed in the root `/images/` directory. To d
 | **Original Capture** | Swagger API POST request execution (bookings success) | `![Swagger POST Booking Success](./images/Screenshot%202026-07-13%20223641.png)` |
 | **Original Capture** | Swagger Database Schema Definition - User & Auth Models | `![Swagger Schema User](./images/Screenshot%202026-07-13%20223653.png)` |
 | **Original Capture** | Flights Search Empty State | `![Flights Empty](./images/Screenshot%202026-07-13%20033031.png)` |
-| **Original Capture** | Flight Search Results (Vietnam & Goa routes) | `![Flights Search](./images/Screenshot%202026-07-13%20121236.png)` |
 | **Original Capture** | Flights Booking Form (Empty UI & seats selection template) | `![Flight Booking Empty UI](./images/Screenshot%202026-07-13%20033049.png)` |
-| **Original Capture** | Flights Booking Form (Passenger details & seats entered) | `![Booking Forms](./images/Screenshot%202026-07-13%20121245.png)` |
-| **Original Capture** | Flight Confirmed Invoice Receipt page | `![Receipt](./images/Screenshot%202026-07-13%20121253.png)` |
 | **Original Capture** | Client Invoice Receipt and PDF download ticket | `![PDF Print Confirmation](./images/Screenshot%202026-07-13%20031253.png)` |
-| **Original Capture** | Unified Booking History Dashboard | `![History](./images/Screenshot%202026-07-13%20121301.png)` |
 | **Original Capture** | Empty train search status panel | `![Trains Empty](./images/Screenshot%202026-07-13%20033252.png)` |
 | **Original Capture** | Train search results (Vande Bharat Express, Shatabdi) | `![Trains Search](./images/Screenshot%202026-07-13%20033325.png)` |
 | **Original Capture** | Train booking passenger details input forms | `![Train Booking Modal](./images/Screenshot%202026-07-13%20033354.png)` |
@@ -189,50 +188,53 @@ All showcase screenshots should be placed in the root `/images/` directory. To d
 
 ### Visual Previews
 
-### 1. RouteReserve Landing Homepage & User Auth Flow
+### 1. RouteReserve Landing Homepage & Booking Flow
 ![01 Landing Page](./images/Screenshot%202026-07-13%20031321.png)
-![02 User Login](./images/Screenshot%202026-07-13%20033440.png)
-![03 User Registration](./images/Screenshot%202026-07-13%20033511.png)
-![04 Analytics Dashboard](./images/Screenshot%202026-07-13%20033521.png)
+![02 Flights Search](./images/Screenshot%202026-07-13%20121236.png)
+![03 Booking Modal](./images/Screenshot%202026-07-13%20121245.png)
+![04 Invoice Receipt](./images/Screenshot%202026-07-13%20121253.png)
+![05 Booking History](./images/Screenshot%202026-07-13%20121301.png)
 
-### 2. NestJS Swagger Developer Documentation Header
-![05 Swagger API Header](./images/Screenshot%202026-07-13%20002654.png)
+### 2. User Authentication & Analytics Dashboard (Login, Registration, & Admin Charts)
+![06 User Login](./images/Screenshot%202026-07-13%20033440.png)
+![07 User Registration](./images/Screenshot%202026-07-13%20033511.png)
+![08 Analytics Dashboard](./images/Screenshot%202026-07-13%20033521.png)
 
-### 3. Swagger Authentication & Service Endpoints (Endpoints, POST Executions, & Schemas)
-![06 Swagger Endpoints](./images/Screenshot%202026-07-13%20002735.png)
-![07 Swagger POST User Input](./images/Screenshot%202026-07-13%20223949.png)
-![08 Swagger POST User Success](./images/Screenshot%202026-07-13%20224000.png)
-![09 Swagger POST Booking Success](./images/Screenshot%202026-07-13%20223641.png)
-![10 Swagger Schema User](./images/Screenshot%202026-07-13%20223653.png)
+### 3. NestJS Swagger Developer Documentation Header
+![09 Swagger API Header](./images/Screenshot%202026-07-13%20002654.png)
 
-### 4. Flights Booking & Checkout Flow
-![11 Flights Empty State](./images/Screenshot%202026-07-13%20033031.png)
-![12 Flights Results List](./images/Screenshot%202026-07-13%20121236.png)
-![13 Flights Booking Form Empty UI](./images/Screenshot%202026-07-13%20033049.png)
-![14 Flights Booking Form Entered Details](./images/Screenshot%202026-07-13%20121245.png)
-![15 Flight Confirmed Invoice Receipt](./images/Screenshot%202026-07-13%20121253.png)
-![16 Client Invoice & PDF Download Ticket](./images/Screenshot%202026-07-13%20031253.png)
-![17 Unified Booking History Dashboard](./images/Screenshot%202026-07-13%20121301.png)
+### 4. Swagger Authentication & Service Endpoints (Endpoints, POST Executions, & Schemas)
+![10 Swagger Endpoints](./images/Screenshot%202026-07-13%20002735.png)
+![11 Swagger POST User Input](./images/Screenshot%202026-07-13%20223949.png)
+![12 Swagger POST User Success](./images/Screenshot%202026-07-13%20224000.png)
+![13 Swagger POST Booking Success](./images/Screenshot%202026-07-13%20223641.png)
+![14 Swagger Schema User](./images/Screenshot%202026-07-13%20223653.png)
 
-### 5. Trains Reservation Module (Empty State, Results, Booking, & Ticket)
-![18 Trains Empty](./images/Screenshot%202026-07-13%20033252.png)
-![19 Trains Search](./images/Screenshot%202026-07-13%20033325.png)
-![20 Train Booking Modal](./images/Screenshot%202026-07-13%20033354.png)
-![21 Train Receipt](./images/Screenshot%202026-07-13%20033412.png)
+### 5. Flights Search Module (Empty State & Active Flights Scan)
+![15 Flights Empty State](./images/Screenshot%202026-07-13%20033031.png)
+![16 Flights Search Results](./images/Screenshot%202026-07-13%20121236.png)
+![17 Flights Booking Form Empty UI](./images/Screenshot%202026-07-13%20033049.png)
+![18 Client Invoice & PDF Download Ticket](./images/Screenshot%202026-07-13%20031253.png)
 
-### 6. Buses Reservation Module (Empty State, Results, Booking, & Ticket)
-![22 Buses Empty](./images/Screenshot%202026-07-13%20031532.png)
-![23 Buses Search](./images/Screenshot%202026-07-13%20031639.png)
-![24 Bus Booking Modal](./images/Screenshot%202026-07-13%20031759.png)
-![25 Bus Receipt](./images/Screenshot%202026-07-13%20031907.png)
+### 6. Trains Reservation Module (Empty State, Results, Booking, & Ticket)
+![19 Trains Empty](./images/Screenshot%202026-07-13%20033252.png)
+![20 Trains Search](./images/Screenshot%202026-07-13%20033325.png)
+![21 Train Booking Modal](./images/Screenshot%202026-07-13%20033354.png)
+![22 Train Receipt](./images/Screenshot%202026-07-13%20033412.png)
 
-### 7. Car Rentals Module (Catalog, Booking, & Confirmation)
-![26 Car List](./images/Screenshot%202026-07-13%20032008.png)
-![27 Car Booking Modal](./images/Screenshot%202026-07-13%20032029.png)
-![28 Car Receipt](./images/Screenshot%202026-07-13%20032252.png)
+### 7. Buses Reservation Module (Empty State, Results, Booking, & Ticket)
+![23 Buses Empty](./images/Screenshot%202026-07-13%20031532.png)
+![24 Buses Search](./images/Screenshot%202026-07-13%20031639.png)
+![25 Bus Booking Modal](./images/Screenshot%202026-07-13%20031759.png)
+![26 Bus Receipt](./images/Screenshot%202026-07-13%20031907.png)
 
-### 8. Database Seeding & Setup Logs
-![29 DB Seeding](./images/Screenshot%202026-07-12%20224026.png)
+### 8. Car Rentals Module (Catalog, Booking, & Confirmation)
+![27 Car List](./images/Screenshot%202026-07-13%20032008.png)
+![28 Car Booking Modal](./images/Screenshot%202026-07-13%20032029.png)
+![29 Car Receipt](./images/Screenshot%202026-07-13%20032252.png)
+
+### 9. Database Seeding & Setup Logs
+![30 DB Seeding](./images/Screenshot%202026-07-12%20224026.png)
 
 *To update these previews on your fork, simply replace the files inside the `/images/` root directory.*
 

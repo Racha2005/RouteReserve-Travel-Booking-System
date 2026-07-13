@@ -180,6 +180,7 @@ All showcase screenshots should be placed in the root `/images/` directory. To d
 | **Original Capture** | Car rental catalog (Thar 4x4, Nexon EV) | `![Car List](./images/Screenshot%202026-07-13%20032008.png)` |
 | **Original Capture** | Car rental driver config details & dates checkout form | `![Car Booking Modal](./images/Screenshot%202026-07-13%20032029.png)` |
 | **Original Capture** | Confirmed car rental booking receipt | `![Car Receipt](./images/Screenshot%202026-07-13%20032252.png)` |
+| **Original Capture** | Client invoice receipt and PDF download ticket | `![PDF Print Confirmation](./images/Screenshot%202026-07-13%20031253.png)` |
 | **Original Capture** | Terminal log of running `npx prisma db seed` | `![DB Seeding](./images/Screenshot%202026-07-12%20224026.png)` |
 
 ---
@@ -261,8 +262,11 @@ All showcase screenshots should be placed in the root `/images/` directory. To d
 ### 25. Car Rental Invoice Receipt Confirmation
 ![25 Car Receipt](./images/Screenshot%202026-07-13%20032252.png)
 
-### 26. Terminal PostgreSQL Seeding Output
-![26 DB Seeding](./images/Screenshot%202026-07-12%20224026.png)
+### 26. Client invoice receipt and PDF download ticket
+![26 PDF Print Confirmation](./images/Screenshot%202026-07-13%20031253.png)
+
+### 27. Terminal PostgreSQL Seeding Output
+![27 DB Seeding](./images/Screenshot%202026-07-12%20224026.png)
 
 *To update these previews on your fork, simply replace the files inside the `/images/` root directory.*
 

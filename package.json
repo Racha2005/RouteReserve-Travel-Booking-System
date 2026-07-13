@@ -1,0 +1,14 @@
+{
+  "name": "routereserve-monorepo",
+  "version": "1.0.0",
+  "description": "RouteReserve Full-Stack Monorepo containing Next.js frontend and NestJS backend API.",
+  "scripts": {
+    "install:all": "npm install --prefix frontend && npm install --prefix backend",
+    "dev:frontend": "npm run dev --prefix frontend",
+    "dev:backend": "npm run start:dev --prefix backend",
+    "build:all": "npm run build --prefix frontend && npm run build --prefix backend",
+    "build:frontend": "npm run build --prefix frontend",
+    "build:backend": "npm run build --prefix backend",
+    "start:frontend": "npm run start --prefix frontend"
+  }
+}

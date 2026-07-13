@@ -166,7 +166,7 @@ All showcase screenshots should be placed in the root `/images/` directory. To d
 | **Original Capture** | Swagger Authentication & Service Module Endpoints | `![Swagger Endpoints](./images/Screenshot%202026-07-13%20002735.png)` |
 | **Original Capture** | Swagger API POST request execution (user login input) | `![Swagger POST User Input](./images/Screenshot%202026-07-13%20223949.png)` |
 | **Original Capture** | Swagger API POST request execution (user login response) | `![Swagger POST User Success](./images/Screenshot%202026-07-13%20224000.png)` |
-| **Original Capture** | Swagger API POST request execution (bookings success) | `![Swagger POST Booking Success](./images/Screenshot%202026-07-13%20223641.png)` |
+| **Original Capture** | Swagger Database Schema Definition - Service & Booking Models | `![Swagger Schema Booking](./images/Screenshot%202026-07-13%20223641.png)` |
 | **Original Capture** | Swagger Database Schema Definition - User & Auth Models | `![Swagger Schema User](./images/Screenshot%202026-07-13%20223653.png)` |
 | **Original Capture** | Flights Search Empty State | `![Flights Empty](./images/Screenshot%202026-07-13%20033031.png)` |
 | **Original Capture** | Flights Booking Form (Empty UI & seats selection template) | `![Flight Booking Empty UI](./images/Screenshot%202026-07-13%20033049.png)` |
@@ -207,8 +207,8 @@ All showcase screenshots should be placed in the root `/images/` directory. To d
 ![10 Swagger Endpoints](./images/Screenshot%202026-07-13%20002735.png)
 ![11 Swagger POST User Input](./images/Screenshot%202026-07-13%20223949.png)
 ![12 Swagger POST User Success](./images/Screenshot%202026-07-13%20224000.png)
-![13 Swagger POST Booking Success](./images/Screenshot%202026-07-13%20223641.png)
-![14 Swagger Schema User](./images/Screenshot%202026-07-13%20223653.png)
+![13 Swagger Schema User](./images/Screenshot%202026-07-13%20223653.png)
+![14 Swagger Schema Booking](./images/Screenshot%202026-07-13%20223641.png)
 
 ### 5. Flights Search Module (Empty State & Active Flights Scan)
 ![15 Flights Empty State](./images/Screenshot%202026-07-13%20033031.png)

@@ -167,6 +167,15 @@ All showcase screenshots are stored in the root `/images/` directory.
 ### 5. Clear Slate Booking History
 ![Showcase - Fresh History](./images/05_booking_history.png)
 
+### 6. Interactive Swagger API Documentation Header
+![Swagger Header](./images/06_swagger_docs.png)
+
+### 7. Swagger Authentication & Service Endpoints
+![Swagger Endpoints](./images/07_swagger_endpoints.png)
+
+### 8. Prisma Database Schemas Definition
+![Swagger Schemas](./images/08_swagger_schemas.png)
+
 *To update these previews on your fork, simply replace the files inside the `/images/` root directory.*
 
 ---

@@ -196,8 +196,8 @@ All showcase screenshots should be placed in the root `/images/` directory. To d
 ![05 Booking History](./images/Screenshot%202026-07-13%20121301.png)
 
 ### 2. User Authentication & Analytics Dashboard (Login, Registration, & Admin Charts)
-![06 User Login](./images/Screenshot%202026-07-13%20033440.png)
-![07 User Registration](./images/Screenshot%202026-07-13%20033511.png)
+![06 User Login](./images/Screenshot%202026-07-13%20002917.png)
+![07 User Registration](./images/Screenshot%202026-07-13%20002952.png)
 ![08 Analytics Dashboard](./images/Screenshot%202026-07-13%20033521.png)
 
 ### 3. NestJS Swagger Developer Documentation Header

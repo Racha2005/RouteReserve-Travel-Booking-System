@@ -162,9 +162,9 @@ All showcase screenshots should be placed in the root `/images/` directory. To d
 | **Original Capture** | Clear slate bookings history panel | `![History](./images/Screenshot%202026-07-13%20121301.png)` |
 | **Original Capture** | NestJS Swagger API interactive developer docs header | `![Swagger API Header](./images/Screenshot%202026-07-13%20002654.png)` |
 | **Original Capture** | Swagger Authentication & Service Module Endpoints | `![Swagger Endpoints](./images/Screenshot%202026-07-13%20002735.png)` |
-| **`08_swagger_post.png`** | Swagger API POST request execution (e.g. Services / Register) | `![Swagger POST](./images/08_swagger_post.png)` |
-| **`09_swagger_schema_user.png`** | Swagger Database Schema Definition - User & Auth Models | `![Swagger Schema User](./images/09_swagger_schema_user.png)` |
-| **`10_swagger_schema_booking.png`** | Swagger Database Schema Definition - Service & Booking Models | `![Swagger Schema Booking](./images/10_swagger_schema_booking.png)` |
+| **Original Capture** | Swagger API POST request execution (e.g. Services / Register) | `![Swagger POST](./images/Screenshot%202026-07-13%20224000.png)` |
+| **Original Capture** | Swagger Database Schema Definition - User & Auth Models | `![Swagger Schema User](./images/Screenshot%202026-07-13%20223653.png)` |
+| **Original Capture** | Swagger Database Schema Definition - Service & Booking Models | `![Swagger Schema Booking](./images/Screenshot%202026-07-13%20223641.png)` |
 | **`11_train_search_empty.png`** | Empty train search status panel | `![Trains Empty](./images/11_train_search_empty.png)` |
 | **`12_train_search_results.png`** | Train search results (Vande Bharat Express, Shatabdi) | `![Trains Search](./images/12_train_search_results.png)` |
 | **`13_train_booking_modal.png`** | Train booking passenger details input forms | `![Train Booking Modal](./images/13_train_booking_modal.png)` |
@@ -194,9 +194,9 @@ All showcase screenshots should be placed in the root `/images/` directory. To d
 
 ### 3. Swagger Authentication & Service Endpoints (Endpoints, POST Executions, & Schemas)
 ![07 Swagger Endpoints](./images/Screenshot%202026-07-13%20002735.png)
-![08 Swagger POST](./images/08_swagger_post.png)
-![09 Swagger Schema User](./images/09_swagger_schema_user.png)
-![10 Swagger Schema Booking](./images/10_swagger_schema_booking.png)
+![08 Swagger POST](./images/Screenshot%202026-07-13%20224000.png)
+![09 Swagger Schema User](./images/Screenshot%202026-07-13%20223653.png)
+![10 Swagger Schema Booking](./images/Screenshot%202026-07-13%20223641.png)
 
 ### 4. Empty Train Search State
 ![11 Trains Empty](./images/11_train_search_empty.png)

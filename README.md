@@ -160,23 +160,27 @@ All showcase screenshots should be placed in the root `/images/` directory. To d
 | **Original Capture** | Multiple passenger forms with name/age inputs | `![Booking Forms](./images/Screenshot%202026-07-13%20121245.png)` |
 | **Original Capture** | Booking Confirmed invoice receipt page | `![Receipt](./images/Screenshot%202026-07-13%20121253.png)` |
 | **Original Capture** | Clear slate bookings history panel | `![History](./images/Screenshot%202026-07-13%20121301.png)` |
+| **Original Capture** | User Auth - Login Screen | `![Login](./images/Screenshot%202026-07-13%20033440.png)` |
+| **Original Capture** | User Auth - Registration Screen | `![Register](./images/Screenshot%202026-07-13%20033511.png)` |
+| **Original Capture** | Agency Analytics & Charts Dashboard | `![Analytics](./images/Screenshot%202026-07-13%20033521.png)` |
 | **Original Capture** | NestJS Swagger API interactive developer docs header | `![Swagger API Header](./images/Screenshot%202026-07-13%20002654.png)` |
 | **Original Capture** | Swagger Authentication & Service Module Endpoints | `![Swagger Endpoints](./images/Screenshot%202026-07-13%20002735.png)` |
-| **Original Capture** | Swagger API POST request execution (e.g. Services / Register) | `![Swagger POST](./images/Screenshot%202026-07-13%20224000.png)` |
+| **Original Capture** | Swagger API POST request execution (user login input) | `![Swagger POST User Input](./images/Screenshot%202026-07-13%20223949.png)` |
+| **Original Capture** | Swagger API POST request execution (user login response) | `![Swagger POST User Success](./images/Screenshot%202026-07-13%20224000.png)` |
+| **Original Capture** | Swagger API POST request execution (bookings success) | `![Swagger POST Booking Success](./images/Screenshot%202026-07-13%20223641.png)` |
 | **Original Capture** | Swagger Database Schema Definition - User & Auth Models | `![Swagger Schema User](./images/Screenshot%202026-07-13%20223653.png)` |
-| **Original Capture** | Swagger Database Schema Definition - Service & Booking Models | `![Swagger Schema Booking](./images/Screenshot%202026-07-13%20223641.png)` |
-| **`11_train_search_empty.png`** | Empty train search status panel | `![Trains Empty](./images/11_train_search_empty.png)` |
-| **`12_train_search_results.png`** | Train search results (Vande Bharat Express, Shatabdi) | `![Trains Search](./images/12_train_search_results.png)` |
-| **`13_train_booking_modal.png`** | Train booking passenger details input forms | `![Train Booking Modal](./images/13_train_booking_modal.png)` |
-| **`14_train_checkout_receipt.png`** | Confirmed train ticket invoice receipt page | `![Train Receipt](./images/14_train_checkout_receipt.png)` |
-| **`15_bus_search_empty.png`** | Empty bus search status panel | `![Buses Empty](./images/15_bus_search_empty.png)` |
-| **`16_bus_search_results.png`** | Bus search results (Suguma Tourist, Zingbus Premium, Bharati) | `![Buses Search](./images/16_bus_search_results.png)` |
-| **`17_bus_booking_modal.png`** | Bus booking passenger configuration forms | `![Bus Booking Modal](./images/17_bus_booking_modal.png)` |
-| **`18_bus_checkout_receipt.png`** | Confirmed bus booking ticket invoice receipt page | `![Bus Receipt](./images/18_bus_checkout_receipt.png)` |
-| **`19_car_rental_list.png`** | Car rental catalog (Thar 4x4, Nexon EV) | `![Car List](./images/19_car_rental_list.png)` |
-| **`20_car_booking_modal.png`** | Car rental driver config details & dates checkout form | `![Car Booking Modal](./images/20_car_booking_modal.png)` |
-| **`21_car_checkout_receipt.png`** | Confirmed car rental booking receipt | `![Car Receipt](./images/21_car_checkout_receipt.png)` |
-| **`22_prisma_db_seeding.png`** | Terminal log of running `npx prisma db seed` | `![DB Seeding](./images/22_prisma_db_seeding.png)` |
+| **Original Capture** | Empty train search status panel | `![Trains Empty](./images/Screenshot%202026-07-13%20033252.png)` |
+| **Original Capture** | Train search results (Vande Bharat Express, Shatabdi) | `![Trains Search](./images/Screenshot%202026-07-13%20033325.png)` |
+| **Original Capture** | Train booking passenger details input forms | `![Train Booking Modal](./images/Screenshot%202026-07-13%20033354.png)` |
+| **Original Capture** | Confirmed train ticket invoice receipt page | `![Train Receipt](./images/Screenshot%202026-07-13%20033412.png)` |
+| **Original Capture** | Empty bus search status panel | `![Buses Empty](./images/Screenshot%202026-07-13%20031532.png)` |
+| **Original Capture** | Bus search results (Suguma Tourist, Zingbus Premium, Bharati) | `![Buses Search](./images/Screenshot%202026-07-13%20031639.png)` |
+| **Original Capture** | Bus booking passenger configuration forms | `![Bus Booking Modal](./images/Screenshot%202026-07-13%20031759.png)` |
+| **Original Capture** | Confirmed bus booking ticket invoice receipt page | `![Bus Receipt](./images/Screenshot%202026-07-13%20031907.png)` |
+| **Original Capture** | Car rental catalog (Thar 4x4, Nexon EV) | `![Car List](./images/Screenshot%202026-07-13%20032008.png)` |
+| **Original Capture** | Car rental driver config details & dates checkout form | `![Car Booking Modal](./images/Screenshot%202026-07-13%20032029.png)` |
+| **Original Capture** | Confirmed car rental booking receipt | `![Car Receipt](./images/Screenshot%202026-07-13%20032252.png)` |
+| **Original Capture** | Terminal log of running `npx prisma db seed` | `![DB Seeding](./images/Screenshot%202026-07-12%20224026.png)` |
 
 ---
 
@@ -189,50 +193,56 @@ All showcase screenshots should be placed in the root `/images/` directory. To d
 ![04 Invoice Receipt](./images/Screenshot%202026-07-13%20121253.png)
 ![05 Booking History](./images/Screenshot%202026-07-13%20121301.png)
 
-### 2. NestJS Swagger Developer Documentation Header
-![06 Swagger API Header](./images/Screenshot%202026-07-13%20002654.png)
+### 2. User Authentication & Analytics Dashboard (Login, Registration, & Admin Charts)
+![06 User Login](./images/Screenshot%202026-07-13%20033440.png)
+![07 User Registration](./images/Screenshot%202026-07-13%20033511.png)
+![08 Analytics Dashboard](./images/Screenshot%202026-07-13%20033521.png)
 
-### 3. Swagger Authentication & Service Endpoints (Endpoints, POST Executions, & Schemas)
-![07 Swagger Endpoints](./images/Screenshot%202026-07-13%20002735.png)
-![08 Swagger POST](./images/Screenshot%202026-07-13%20224000.png)
-![09 Swagger Schema User](./images/Screenshot%202026-07-13%20223653.png)
-![10 Swagger Schema Booking](./images/Screenshot%202026-07-13%20223641.png)
+### 3. NestJS Swagger Developer Documentation Header
+![09 Swagger API Header](./images/Screenshot%202026-07-13%20002654.png)
 
-### 4. Empty Train Search State
-![11 Trains Empty](./images/11_train_search_empty.png)
+### 4. Swagger Authentication & Service Endpoints (Endpoints, POST Executions, & Schemas)
+![10 Swagger Endpoints](./images/Screenshot%202026-07-13%20002735.png)
+![11 Swagger POST User Input](./images/Screenshot%202026-07-13%20223949.png)
+![12 Swagger POST User Success](./images/Screenshot%202026-07-13%20224000.png)
+![13 Swagger POST Booking Success](./images/Screenshot%202026-07-13%20223641.png)
+![14 Swagger Schema User](./images/Screenshot%202026-07-13%20223653.png)
 
-### 5. Indian Railway Connections Search
-![12 Trains Search](./images/12_train_search_results.png)
+### 5. Empty Train Search State
+![15 Trains Empty](./images/Screenshot%202026-07-13%20033252.png)
 
-### 6. Train Passenger Registration Form
-![13 Train Booking Modal](./images/13_train_booking_modal.png)
+### 6. Indian Railway Connections Search
+![16 Trains Search](./images/Screenshot%202026-07-13%20033325.png)
 
-### 7. Train Invoice Receipt Confirmation
-![14 Train Receipt](./images/14_train_checkout_receipt.png)
+### 7. Train Passenger Registration Form
+![17 Train Booking Modal](./images/Screenshot%202026-07-13%20033354.png)
 
-### 8. Empty Bus Search State
-![15 Buses Empty](./images/15_bus_search_empty.png)
+### 8. Train Invoice Receipt Confirmation
+![18 Train Receipt](./images/Screenshot%202026-07-13%20033412.png)
 
-### 9. Indian Bus Operators Search
-![16 Buses Search](./images/16_bus_search_results.png)
+### 9. Empty Bus Search State
+![19 Buses Empty](./images/Screenshot%202026-07-13%20031532.png)
 
-### 10. Bus Passenger Registration Form
-![17 Bus Booking Modal](./images/17_bus_booking_modal.png)
+### 10. Indian Bus Operators Search
+![20 Buses Search](./images/Screenshot%202026-07-13%20031639.png)
 
-### 11. Bus Invoice Receipt Confirmation
-![18 Bus Receipt](./images/18_bus_checkout_receipt.png)
+### 11. Bus Passenger Registration Form
+![21 Bus Booking Modal](./images/Screenshot%202026-07-13%20031759.png)
 
-### 12. Car Rental Vehicle Catalog
-![19 Car List](./images/19_car_rental_list.png)
+### 12. Bus Invoice Receipt Confirmation
+![22 Bus Receipt](./images/Screenshot%202026-07-13%20031907.png)
 
-### 13. Car Rental Checkout Form
-![20 Car Booking Modal](./images/20_car_booking_modal.png)
+### 13. Car Rental Vehicle Catalog
+![23 Car List](./images/Screenshot%202026-07-13%20032008.png)
 
-### 14. Car Rental Invoice Receipt Confirmation
-![21 Car Receipt](./images/21_car_checkout_receipt.png)
+### 14. Car Rental Checkout Form
+![24 Car Booking Modal](./images/Screenshot%202026-07-13%20032029.png)
 
-### 15. Terminal PostgreSQL Seeding Output
-![22 DB Seeding](./images/22_prisma_db_seeding.png)
+### 15. Car Rental Invoice Receipt Confirmation
+![25 Car Receipt](./images/Screenshot%202026-07-13%20032252.png)
+
+### 16. Terminal PostgreSQL Seeding Output
+![26 DB Seeding](./images/Screenshot%202026-07-12%20224026.png)
 
 *To update these previews on your fork, simply replace the files inside the `/images/` root directory.*
 

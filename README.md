@@ -40,7 +40,7 @@ The application is tailored for the Indian market, displaying values in Indian R
 
 ### 🚆 Indian Railways Trains Module
 *   **Train Options:** Scans **10+ train listings** including Vande Bharat Express, Shatabdi Express, Rajdhani Express, Duronto Express, Humsafar Express, Tejas Express, Garib Rath, and local Mail/Express transits.
-*   **Pricing:** Ranges from budget sleeper classes (₹350) up to premium Vande Bharat AC Executive chair cars (₹3,000+).
+*   **Pricing:** Ranges from budget sleeper classes (₹350) up to premium Vande Bharat AC Executive chair cars (₹3,00,000+).
 
 ### 🚌 Luxury & Budget Buses Module
 *   **Indian Operators:** Scans **20+ bus connection options** from major private/public operators:
@@ -159,8 +159,8 @@ All showcase screenshots should be placed in the root `/images/` directory. To d
 | **Original Capture** | Multiple passenger forms with name/age inputs | `![Booking Forms](./images/Screenshot%202026-07-13%20121245.png)` |
 | **Original Capture** | Booking Confirmed invoice receipt page | `![Receipt](./images/Screenshot%202026-07-13%20121253.png)` |
 | **Original Capture** | Clear slate bookings history panel | `![History](./images/Screenshot%202026-07-13%20121301.png)` |
-| **`06_swagger_docs.png`** | NestJS Swagger API interactive developer docs header | `![Swagger API Header](./images/06_swagger_docs.png)` |
-| **`07_swagger_endpoints.png`** | Swagger Authentication & Service Module Endpoints | `![Swagger Endpoints](./images/07_swagger_endpoints.png)` |
+| **Original Capture** | NestJS Swagger API interactive developer docs header | `![Swagger API Header](./images/Screenshot%202026-07-13%20002654.png)` |
+| **Original Capture** | Swagger Authentication & Service Module Endpoints | `![Swagger Endpoints](./images/Screenshot%202026-07-13%20002735.png)` |
 | **`08_swagger_schemas.png`** | Swagger Prisma Database Schemas Definition | `![Swagger Schemas](./images/08_swagger_schemas.png)` |
 | **`09_train_search_empty.png`** | Empty train search status panel | `![Trains Empty](./images/09_train_search_empty.png)` |
 | **`10_train_search_results.png`** | Train search results (Vande Bharat Express, Shatabdi) | `![Trains Search](./images/10_train_search_results.png)` |
@@ -187,10 +187,10 @@ All showcase screenshots should be placed in the root `/images/` directory. To d
 ![05 Booking History](./images/Screenshot%202026-07-13%20121301.png)
 
 ### 2. NestJS Swagger Developer Documentation Header
-![06 Swagger API Header](./images/06_swagger_docs.png)
+![06 Swagger API Header](./images/Screenshot%202026-07-13%20002654.png)
 
 ### 3. Swagger Authentication & Service Module Endpoints
-![07 Swagger Endpoints](./images/07_swagger_endpoints.png)
+![07 Swagger Endpoints](./images/Screenshot%202026-07-13%20002735.png)
 
 ### 4. Swagger Prisma Database Schemas Definition
 ![08 Swagger Schemas](./images/08_swagger_schemas.png)

@@ -8,8 +8,7 @@
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791?style=for-the-badge&logo=postgresql)
   ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript)
   ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-v4-38B2AC?style=for-the-badge&logo=tailwindcss)
-  ![Vercel](https://img.shields.io/badge/Vercel-Deployed-black?style=for-the-badge&logo=vercel)
-
+  
   <p align="center">
     A premium, unified travel reservation agency portal supporting flights, trains, buses, and car rentals with dynamic pricing calculations, multi-passenger ticket booking, and real-time history tracking.
   </p>

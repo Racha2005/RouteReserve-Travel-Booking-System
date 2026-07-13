@@ -206,8 +206,10 @@ All showcase screenshots should be placed in the root `/images/` directory. To d
 ![10 Swagger Endpoints](./images/Screenshot%202026-07-13%20002735.png)
 ![11 Swagger POST User Input](./images/Screenshot%202026-07-13%20223949.png)
 ![12 Swagger POST User Success](./images/Screenshot%202026-07-13%20224000.png)
-![13 Swagger Schema User](./images/Screenshot%202026-07-13%20223653.png)
-![14 Swagger Schema Booking](./images/Screenshot%202026-07-13%20223641.png)
+![13 Swagger Schemas](./images/Screenshot%202026-07-13%20002703.png)
+![14 Swagger Schemas](./images/Screenshot%202026-07-13%20002715.png)
+![15 Swagger Schema User](./images/Screenshot%202026-07-13%20223653.png)
+![16 Swagger Schema Booking](./images/Screenshot%202026-07-13%20223641.png)
 
 ### 5. Flights Search Module (Empty State & Active Flights Scan)
 ![15 Flights Empty State](./images/Screenshot%202026-07-13%20031532.png)

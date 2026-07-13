@@ -211,8 +211,8 @@ All showcase screenshots should be placed in the root `/images/` directory. To d
 
 ### 5. Flights Search Module (Empty State & Active Flights Scan)
 ![15 Flights Empty State](./images/Screenshot%202026-07-13%20031532.png)
+![16 Flights Search Results](./images/Screenshot%202026-07-13%20031639.png)
 ![16 Flights Search Results](./images/Screenshot%202026-07-13%20032923.png)
-![16 Flights Search Results](./images/Screenshot%202026-07-13%20121236.png)
 ![17 Flights Booking Form Empty UI](./images/Screenshot%202026-07-13%20031759.png)
 ![18 Flights Booking Form UI](./images/Screenshot%202026-07-13%20031907.png)
 ![19 Client Confirmation Invoice](./images/Screenshot%202026-07-13%20032008.png)

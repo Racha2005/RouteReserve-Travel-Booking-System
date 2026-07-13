@@ -150,7 +150,34 @@ NestJS automatically hosts interactive OpenAPI documentation.
 
 ## 📸 Screenshots Showcase
 
-All screenshots are stored in the root `/images/` directory using their original capture names. They are mapped and displayed below:
+All showcase screenshots should be placed in the root `/images/` directory. To display your screenshots correctly on GitHub, select your best captures from your screenshots collection and rename them to match the filenames in the table below:
+
+| Target Filename | What Image to Use | Markdown Link |
+|---|---|---|
+| **Original Capture** | Homepage search dashboard (glassmorphism tabs selector) | `![Landing](./images/Screenshot%202026-07-13%20031321.png)` |
+| **Original Capture** | Flight search results (INR + USD brackets) | `![Flights](./images/Screenshot%202026-07-13%20121236.png)` |
+| **Original Capture** | Multiple passenger forms with name/age inputs | `![Booking Forms](./images/Screenshot%202026-07-13%20121245.png)` |
+| **Original Capture** | Booking Confirmed invoice receipt page | `![Receipt](./images/Screenshot%202026-07-13%20121253.png)` |
+| **Original Capture** | Clear slate bookings history panel | `![History](./images/Screenshot%202026-07-13%20121301.png)` |
+| **`06_swagger_docs.png`** | NestJS Swagger API interactive developer docs header | `![Swagger API Header](./images/06_swagger_docs.png)` |
+| **`07_swagger_endpoints.png`** | Swagger Authentication & Service Module Endpoints | `![Swagger Endpoints](./images/07_swagger_endpoints.png)` |
+| **`08_swagger_schemas.png`** | Swagger Prisma Database Schemas Definition | `![Swagger Schemas](./images/08_swagger_schemas.png)` |
+| **`09_train_search_empty.png`** | Empty train search status panel | `![Trains Empty](./images/09_train_search_empty.png)` |
+| **`10_train_search_results.png`** | Train search results (Vande Bharat Express, Shatabdi) | `![Trains Search](./images/10_train_search_results.png)` |
+| **`11_train_booking_modal.png`** | Train booking passenger details input forms | `![Train Booking Modal](./images/11_train_booking_modal.png)` |
+| **`12_train_checkout_receipt.png`** | Confirmed train ticket invoice receipt page | `![Train Receipt](./images/12_train_checkout_receipt.png)` |
+| **`13_bus_search_empty.png`** | Empty bus search status panel | `![Buses Empty](./images/13_bus_search_empty.png)` |
+| **`14_bus_search_results.png`** | Bus search results (Suguma Tourist, Zingbus Premium, Bharati) | `![Buses Search](./images/14_bus_search_results.png)` |
+| **`15_bus_booking_modal.png`** | Bus booking passenger configuration forms | `![Bus Booking Modal](./images/15_bus_booking_modal.png)` |
+| **`16_bus_checkout_receipt.png`** | Confirmed bus booking ticket invoice receipt page | `![Bus Receipt](./images/16_bus_checkout_receipt.png)` |
+| **`17_car_rental_list.png`** | Car rental catalog (Thar 4x4, Nexon EV) | `![Car List](./images/17_car_rental_list.png)` |
+| **`18_car_booking_modal.png`** | Car rental driver config details & dates checkout form | `![Car Booking Modal](./images/18_car_booking_modal.png)` |
+| **`19_car_checkout_receipt.png`** | Confirmed car rental booking receipt | `![Car Receipt](./images/19_car_checkout_receipt.png)` |
+| **`20_prisma_db_seeding.png`** | Terminal log of running `npx prisma db seed` | `![DB Seeding](./images/20_prisma_db_seeding.png)` |
+
+---
+
+### Visual Previews
 
 ### 1. RouteReserve Landing Homepage & Booking Flow
 ![01 Landing Page](./images/Screenshot%202026-07-13%20031321.png)
@@ -159,14 +186,50 @@ All screenshots are stored in the root `/images/` directory using their original
 ![04 Invoice Receipt](./images/Screenshot%202026-07-13%20121253.png)
 ![05 Booking History](./images/Screenshot%202026-07-13%20121301.png)
 
-### 2. Interactive Swagger API Documentation Panel Header
-![06 Swagger API Header](./images/Screenshot%202026-07-13%20034335.png)
+### 2. NestJS Swagger Developer Documentation Header
+![06 Swagger API Header](./images/06_swagger_docs.png)
 
 ### 3. Swagger Authentication & Service Module Endpoints
-![07 Swagger Endpoints](./images/Screenshot%202026-07-13%20034345.png)
+![07 Swagger Endpoints](./images/07_swagger_endpoints.png)
 
 ### 4. Swagger Prisma Database Schemas Definition
-![08 Swagger Schemas](./images/Screenshot%202026-07-13%20034355.png)
+![08 Swagger Schemas](./images/08_swagger_schemas.png)
+
+### 5. Empty Train Search State
+![09 Trains Empty](./images/09_train_search_empty.png)
+
+### 6. Indian Railway Connections Search
+![10 Trains Search](./images/10_train_search_results.png)
+
+### 7. Train Passenger Registration Form
+![11 Train Booking Modal](./images/11_train_booking_modal.png)
+
+### 8. Train Invoice Receipt Confirmation
+![12 Train Receipt](./images/12_train_checkout_receipt.png)
+
+### 9. Empty Bus Search State
+![13 Buses Empty](./images/13_bus_search_empty.png)
+
+### 10. Indian Bus Operators Search
+![14 Buses Search](./images/14_bus_search_results.png)
+
+### 11. Bus Passenger Registration Form
+![15 Bus Booking Modal](./images/15_bus_booking_modal.png)
+
+### 12. Bus Invoice Receipt Confirmation
+![16 Bus Receipt](./images/16_bus_checkout_receipt.png)
+
+### 13. Car Rental Vehicle Catalog
+![17 Car List](./images/17_car_rental_list.png)
+
+### 14. Car Rental Checkout Form
+![18 Car Booking Modal](./images/18_car_booking_modal.png)
+
+### 15. Car Rental Invoice Receipt Confirmation
+![19 Car Receipt](./images/19_car_checkout_receipt.png)
+
+### 16. Terminal PostgreSQL Seeding Output
+![20 DB Seeding](./images/20_prisma_db_seeding.png)
 
 *To update these previews on your fork, simply replace the files inside the `/images/` root directory.*
 

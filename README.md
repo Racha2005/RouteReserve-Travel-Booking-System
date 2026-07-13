@@ -152,28 +152,20 @@ NestJS automatically hosts interactive OpenAPI documentation.
 
 All screenshots are stored in the root `/images/` directory using their original capture names. They are mapped and displayed below:
 
-### 1. RouteReserve Landing Homepage
+### 1. RouteReserve Landing Homepage & Booking Flow
 ![01 Landing Page](./images/Screenshot%202026-07-13%20031321.png)
-
-### 2. Dynamically Scanned Flight Options (Surged pricing in INR/USD)
 ![02 Flights Search](./images/Screenshot%202026-07-13%20121236.png)
-
-### 3. Multiple Passenger Booking Registration Form
 ![03 Booking Modal](./images/Screenshot%202026-07-13%20121245.png)
-
-### 4. Confirmed Invoice Receipt Voucher
 ![04 Invoice Receipt](./images/Screenshot%202026-07-13%20121253.png)
-
-### 5. Unified Booking History Dashboard (Clean slate)
 ![05 Booking History](./images/Screenshot%202026-07-13%20121301.png)
 
-### 6. Interactive Swagger API Documentation Panel Header
+### 2. Interactive Swagger API Documentation Panel Header
 ![06 Swagger API Header](./images/Screenshot%202026-07-13%20034335.png)
 
-### 7. Swagger Authentication & Service Module Endpoints
+### 3. Swagger Authentication & Service Module Endpoints
 ![07 Swagger Endpoints](./images/Screenshot%202026-07-13%20034345.png)
 
-### 8. Swagger Prisma Database Schemas Definition
+### 4. Swagger Prisma Database Schemas Definition
 ![08 Swagger Schemas](./images/Screenshot%202026-07-13%20034355.png)
 
 *To update these previews on your fork, simply replace the files inside the `/images/` root directory.*

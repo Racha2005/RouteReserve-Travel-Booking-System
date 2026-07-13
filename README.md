@@ -161,19 +161,21 @@ All showcase screenshots should be placed in the root `/images/` directory. To d
 | **Original Capture** | Clear slate bookings history panel | `![History](./images/Screenshot%202026-07-13%20121301.png)` |
 | **Original Capture** | NestJS Swagger API interactive developer docs header | `![Swagger API Header](./images/Screenshot%202026-07-13%20002654.png)` |
 | **Original Capture** | Swagger Authentication & Service Module Endpoints | `![Swagger Endpoints](./images/Screenshot%202026-07-13%20002735.png)` |
-| **`08_swagger_schemas.png`** | Swagger Prisma Database Schemas Definition | `![Swagger Schemas](./images/08_swagger_schemas.png)` |
-| **`09_train_search_empty.png`** | Empty train search status panel | `![Trains Empty](./images/09_train_search_empty.png)` |
-| **`10_train_search_results.png`** | Train search results (Vande Bharat Express, Shatabdi) | `![Trains Search](./images/10_train_search_results.png)` |
-| **`11_train_booking_modal.png`** | Train booking passenger details input forms | `![Train Booking Modal](./images/11_train_booking_modal.png)` |
-| **`12_train_checkout_receipt.png`** | Confirmed train ticket invoice receipt page | `![Train Receipt](./images/12_train_checkout_receipt.png)` |
-| **`13_bus_search_empty.png`** | Empty bus search status panel | `![Buses Empty](./images/13_bus_search_empty.png)` |
-| **`14_bus_search_results.png`** | Bus search results (Suguma Tourist, Zingbus Premium, Bharati) | `![Buses Search](./images/14_bus_search_results.png)` |
-| **`15_bus_booking_modal.png`** | Bus booking passenger configuration forms | `![Bus Booking Modal](./images/15_bus_booking_modal.png)` |
-| **`16_bus_checkout_receipt.png`** | Confirmed bus booking ticket invoice receipt page | `![Bus Receipt](./images/16_bus_checkout_receipt.png)` |
-| **`17_car_rental_list.png`** | Car rental catalog (Thar 4x4, Nexon EV) | `![Car List](./images/17_car_rental_list.png)` |
-| **`18_car_booking_modal.png`** | Car rental driver config details & dates checkout form | `![Car Booking Modal](./images/18_car_booking_modal.png)` |
-| **`19_car_checkout_receipt.png`** | Confirmed car rental booking receipt | `![Car Receipt](./images/19_car_checkout_receipt.png)` |
-| **`20_prisma_db_seeding.png`** | Terminal log of running `npx prisma db seed` | `![DB Seeding](./images/20_prisma_db_seeding.png)` |
+| **`08_swagger_post.png`** | Swagger API POST request execution (e.g. Services / Register) | `![Swagger POST](./images/08_swagger_post.png)` |
+| **`09_swagger_schema_user.png`** | Swagger Database Schema Definition - User & Auth Models | `![Swagger Schema User](./images/09_swagger_schema_user.png)` |
+| **`10_swagger_schema_booking.png`** | Swagger Database Schema Definition - Service & Booking Models | `![Swagger Schema Booking](./images/10_swagger_schema_booking.png)` |
+| **`11_train_search_empty.png`** | Empty train search status panel | `![Trains Empty](./images/11_train_search_empty.png)` |
+| **`12_train_search_results.png`** | Train search results (Vande Bharat Express, Shatabdi) | `![Trains Search](./images/12_train_search_results.png)` |
+| **`13_train_booking_modal.png`** | Train booking passenger details input forms | `![Train Booking Modal](./images/13_train_booking_modal.png)` |
+| **`14_train_checkout_receipt.png`** | Confirmed train ticket invoice receipt page | `![Train Receipt](./images/14_train_checkout_receipt.png)` |
+| **`15_bus_search_empty.png`** | Empty bus search status panel | `![Buses Empty](./images/15_bus_search_empty.png)` |
+| **`16_bus_search_results.png`** | Bus search results (Suguma Tourist, Zingbus Premium, Bharati) | `![Buses Search](./images/16_bus_search_results.png)` |
+| **`17_bus_booking_modal.png`** | Bus booking passenger configuration forms | `![Bus Booking Modal](./images/17_bus_booking_modal.png)` |
+| **`18_bus_checkout_receipt.png`** | Confirmed bus booking ticket invoice receipt page | `![Bus Receipt](./images/18_bus_checkout_receipt.png)` |
+| **`19_car_rental_list.png`** | Car rental catalog (Thar 4x4, Nexon EV) | `![Car List](./images/19_car_rental_list.png)` |
+| **`20_car_booking_modal.png`** | Car rental driver config details & dates checkout form | `![Car Booking Modal](./images/20_car_booking_modal.png)` |
+| **`21_car_checkout_receipt.png`** | Confirmed car rental booking receipt | `![Car Receipt](./images/21_car_checkout_receipt.png)` |
+| **`22_prisma_db_seeding.png`** | Terminal log of running `npx prisma db seed` | `![DB Seeding](./images/22_prisma_db_seeding.png)` |
 
 ---
 
@@ -192,44 +194,50 @@ All showcase screenshots should be placed in the root `/images/` directory. To d
 ### 3. Swagger Authentication & Service Module Endpoints
 ![07 Swagger Endpoints](./images/Screenshot%202026-07-13%20002735.png)
 
-### 4. Swagger Prisma Database Schemas Definition
-![08 Swagger Schemas](./images/08_swagger_schemas.png)
+### 4. Swagger API POST Request Execution (e.g. Services / Auth)
+![08 Swagger POST](./images/08_swagger_post.png)
 
-### 5. Empty Train Search State
-![09 Trains Empty](./images/09_train_search_empty.png)
+### 5. Swagger Database Schema Definition - User & Auth Models
+![09 Swagger Schema User](./images/09_swagger_schema_user.png)
 
-### 6. Indian Railway Connections Search
-![10 Trains Search](./images/10_train_search_results.png)
+### 6. Swagger Database Schema Definition - Service & Booking Models
+![10 Swagger Schema Booking](./images/10_swagger_schema_booking.png)
 
-### 7. Train Passenger Registration Form
-![11 Train Booking Modal](./images/11_train_booking_modal.png)
+### 7. Empty Train Search State
+![11 Trains Empty](./images/11_train_search_empty.png)
 
-### 8. Train Invoice Receipt Confirmation
-![12 Train Receipt](./images/12_train_checkout_receipt.png)
+### 8. Indian Railway Connections Search
+![12 Trains Search](./images/12_train_search_results.png)
 
-### 9. Empty Bus Search State
-![13 Buses Empty](./images/13_bus_search_empty.png)
+### 9. Train Passenger Registration Form
+![13 Train Booking Modal](./images/13_train_booking_modal.png)
 
-### 10. Indian Bus Operators Search
-![14 Buses Search](./images/14_bus_search_results.png)
+### 10. Train Invoice Receipt Confirmation
+![14 Train Receipt](./images/14_train_checkout_receipt.png)
 
-### 11. Bus Passenger Registration Form
-![15 Bus Booking Modal](./images/15_bus_booking_modal.png)
+### 11. Empty Bus Search State
+![15 Buses Empty](./images/15_bus_search_empty.png)
 
-### 12. Bus Invoice Receipt Confirmation
-![16 Bus Receipt](./images/16_bus_checkout_receipt.png)
+### 12. Indian Bus Operators Search
+![16 Buses Search](./images/16_bus_search_results.png)
 
-### 13. Car Rental Vehicle Catalog
-![17 Car List](./images/17_car_rental_list.png)
+### 13. Bus Passenger Registration Form
+![17 Bus Booking Modal](./images/17_bus_booking_modal.png)
 
-### 14. Car Rental Checkout Form
-![18 Car Booking Modal](./images/18_car_booking_modal.png)
+### 14. Bus Invoice Receipt Confirmation
+![18 Bus Receipt](./images/18_bus_checkout_receipt.png)
 
-### 15. Car Rental Invoice Receipt Confirmation
-![19 Car Receipt](./images/19_car_checkout_receipt.png)
+### 15. Car Rental Vehicle Catalog
+![19 Car List](./images/19_car_rental_list.png)
 
-### 16. Terminal PostgreSQL Seeding Output
-![20 DB Seeding](./images/20_prisma_db_seeding.png)
+### 16. Car Rental Checkout Form
+![20 Car Booking Modal](./images/20_car_booking_modal.png)
+
+### 17. Car Rental Invoice Receipt Confirmation
+![21 Car Receipt](./images/21_car_checkout_receipt.png)
+
+### 18. Terminal PostgreSQL Seeding Output
+![22 DB Seeding](./images/22_prisma_db_seeding.png)
 
 *To update these previews on your fork, simply replace the files inside the `/images/` root directory.*
 
